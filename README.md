@@ -13,7 +13,9 @@ mnn
 ## Quickstart
 You may need to change your own path in the code.
 ### dataset
+```bash
 wget -c https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip
+```
 Split the dataset into train and test at a ratio of 0.1, both of which contain cat and dog.
 
 cd resnet50_catdog
